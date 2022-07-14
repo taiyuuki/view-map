@@ -1,15 +1,25 @@
-# Quasar App (view-map)
+# view-map
 
-A Quasar Project
+A Quasar Project, Visualization application based on ECharts.
 
-## Install the dependencies
+### Start the server
+
+in server folder:
+
+```bash
+npm i
+ts-node index.ts
+```
+
+### Install the dependencies
+
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Start the app in development mode 
 ```bash
 quasar dev
 ```
